@@ -1,5 +1,5 @@
 {
-  "exportDate": "2026-10-13T19:05:49.335Z",
+  "exportDate": "2026-10-13T19:11:31.627Z",
   "totalQuests": 48,
   "quests": [
     {
@@ -74,12 +74,12 @@
                   }
                 ],
                 "external_ids": [
-                  "CUSA00224_00",
                   "PPSA01948_00",
                   "CUSA00182_00",
-                  "CUSA07701_00",
                   "PPSA02190_00",
-                  "PPSA01950_00"
+                  "PPSA01950_00",
+                  "CUSA07701_00",
+                  "CUSA00224_00"
                 ]
               }
             },
@@ -130,13 +130,13 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ==",
-        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJR1ZiMWcrc0hTdnoxYyt1SEttZGlJdmNjalBQdnF1OEVLRnZ3bVNueDl6N09jRFpkVVM2Q25udC8rbjZkM21qTnZHdkZnMzRtNC9wTm5tWUVhK2dFd2tZc3YybW9vYkdDZWJkMWZkbm9zeFJKckxuVWpCVlBZR21wZVZPUHcifQ==",
-        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKU1JvdE5wRHNvaHprT1RRRmlnTS8zOVB5MGZXNytNb0JMdTViQ0pJbzFsTmwxUzkvbHlGQ0h0NE5QUjJHcVZJOTVFdW1UOFR0K0ZzT25NRFdZRS9HSDZRQzc2WGpITzl5cEJ5RXBvRTRGQVBCN0NwZktuMlhUZ25ESEV6bHFTZmxFQXI2M1lzRFp2bzRYaHF3eVVqM2hKYTYxdEJGdFloZWx2eHpLS1VpZHlzSnpibDJvIn0="
+        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdlN3TFJ3WUNOekFyNElLaTIybXNqMEN3TWVHREwwZ0k2bEtoenNQSHBlL0l3SEJsd1JWSG5TSUU5R0pkd1A2c2xka01HNzQvZWtDVVBMZ3NQMUN3RFV6dTFJQ2xIS2F4bGNFam91RG5kMjNDMzlVRENYTVVlY0RpSXlWMmEifQ==",
+        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMUEttVmh6RUtoZ2NoWTdYR0VWNW5FV284ZUF6U2ptMU81cWdpbVhwNm1EZnlDdXUvNnNrdzVhWlkvMmRMTi9HUjZBclVrak02dStmTjYxM2wrc25vU2pxbnVqMkVFOE9VZkUyYTFwV0s1SytmelhnZjBuY3F4NGdEMitJMGpPRHdjSjUraTRPQ3l5d3MxbkxtTDg1dTVPaEN0R3BuelRobWpQL2NVbm1TTzFOVUJOVndLIn0="
       },
       "game": "War Thunder",
       "gameId": "357607478105604096",
       "id": "1550081499628441600",
-      "lastSeen": "2026-10-13T19:05:48.353Z",
+      "lastSeen": "2026-10-13T19:11:28.265Z",
       "name": "War Thunder",
       "regions": [
         "RO",
@@ -153,7 +153,8 @@
         "CA",
         "UNKNOWN",
         "AT",
-        "AU"
+        "AU",
+        "MX"
       ],
       "reward": null
     },
@@ -416,13 +417,13 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ==",
-        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJR1ZiMWcrc0hTdnoxYyt1SEttZGlJdmNjalBQdnF1OEVLRnZ3bVNueDl6N09jRFpkVVM2Q25udC8rbjZkM21qTnZHdkZnMzRtNC9wTm5tWUVhK2dFd2tZc3YybW9vYkdDZWJkMWZkbm9zeFJKckxuVWpCVlBZR21wZVZPUHcifQ==",
-        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMSmVmZVozRDBwdDl3V3ZXWXhSOG5BMkhMWXFUdnFGakdZUXdENlhSNm9SM2lZVFNVOTdBb2p5RjUrNkcxSU9tRDRJaUFrdWV6YmJnb3ppM0xzRDRoTzN5YnpQd05TN3VxVDZUcXRPZXJJWC83U2drc2ZGNWM5QnhMTDh0ZUVFMTZWMWtqenNaZ2JwRW15YnpyNkJ0Q1lDcWFydEZzRGFkSmVITEovamMzdzh2b1lHTk1qIn0="
+        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdlN3TFJ3WUNOekFyNElLaTIybXNqMEN3TWVHREwwZ0k2bEtoenNQSHBlL0l3SEJsd1JWSG5TSUU5R0pkd1A2c2xka01HNzQvZWtDVVBMZ3NQMUN3RFV6dTFJQ2xIS2F4bGNFam91RG5kMjNDMzlVRENYTVVlY0RpSXlWMmEifQ==",
+        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLM0FYNXdvM2lQdEh4T0pMNkVVV3FKdnY4eWxybFVZa3AyQ1VkbW9Ka0EvM3RWZTh4QVNPOGsySk1BQ2RCeGVHSDlwdVNrRlo5bEQrdHlDSHhmM1ZselpWR3VVcVBTaml4dlliUzNtREdPNWM4cURhRnMzcmwvMkNNeUFWWC9neVhXUDAzN25CejVlK0pXUWp6dE5reEpHdmIrUXdkaU40SmNSWlIwWWp3NE1VNG1oQXUvIn0="
       },
       "game": "Wizard101",
       "gameId": "363413310474813450",
       "id": "1548040517420449792",
-      "lastSeen": "2026-10-13T19:05:48.353Z",
+      "lastSeen": "2026-10-13T19:11:28.265Z",
       "name": "Wizard101 Birthday!",
       "regions": [
         "RO",
@@ -439,7 +440,8 @@
         "CA",
         "UNKNOWN",
         "AT",
-        "AU"
+        "AU",
+        "MX"
       ],
       "reward": null
     },
@@ -532,13 +534,13 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ==",
-        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJR1ZiMWcrc0hTdnoxYyt1SEttZGlJdmNjalBQdnF1OEVLRnZ3bVNueDl6N09jRFpkVVM2Q25udC8rbjZkM21qTnZHdkZnMzRtNC9wTm5tWUVhK2dFd2tZc3YybW9vYkdDZWJkMWZkbm9zeFJKckxuVWpCVlBZR21wZVZPUHcifQ==",
-        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVU1Pb2I1dUJCZHBnV01XVFlxR2VhK0p5YnlNMWlaNkl6NmovekZvUTR1YWRMTnA1cDhic0t2Njg1YWg1b3p5Y00zRWJEaUJmZUk4RTdLcVBSaFkzYzFhVGtxVjRCYXBmcXRYVG8rb3RUTENldE1WRUwwT1c3RGdtWkFaaUNzUnlxZU5SMGYwNThGc0RIY2pERUtiVU92YTYxbzl5NXQxMXM3ZUkrd1dPak9zS3dZeW03In0="
+        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdlN3TFJ3WUNOekFyNElLaTIybXNqMEN3TWVHREwwZ0k2bEtoenNQSHBlL0l3SEJsd1JWSG5TSUU5R0pkd1A2c2xka01HNzQvZWtDVVBMZ3NQMUN3RFV6dTFJQ2xIS2F4bGNFam91RG5kMjNDMzlVRENYTVVlY0RpSXlWMmEifQ==",
+        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKYTNoYWtRM1cwOWR5RzlZZmJuYUtCa3BZREFOMlgzVWx6bE9Hbk5zSGxJSkRzS25SNTFORk45dGkrS09iT1JKYzk0dW5NWFFBbEVPWXRDSWtaZ3pWQm1YTHF2eU1KUkdzcjRjSFltaTBWblR3ang1Qlp6K283U3ZHNlFDc1J1WHlUeU0vQ0QyaDh3QUJKeE12SXZTQkVHbWN4bHJybHVFbGFBaVdyYXdic3JkOXprcWNIIn0="
       },
       "game": "Roblox",
       "gameId": "363445589247131668",
       "id": "1548002983260725379",
-      "lastSeen": "2026-10-13T19:05:48.353Z",
+      "lastSeen": "2026-10-13T19:11:28.265Z",
       "name": "ROBLOX",
       "regions": [
         "RO",
@@ -555,7 +557,8 @@
         "CA",
         "UNKNOWN",
         "AT",
-        "AU"
+        "AU",
+        "MX"
       ],
       "reward": null
     },
@@ -757,8 +760,8 @@
                   }
                 ],
                 "external_ids": [
-                  "1854680102",
-                  "1668346801"
+                  "1668346801",
+                  "1854680102"
                 ]
               },
               "PLAY_ON_PLAYSTATION": {
@@ -770,10 +773,10 @@
                   }
                 ],
                 "external_ids": [
-                  "PPSA28882_00",
-                  "PPSA28884_00",
+                  "PPSA28883_00",
                   "PPSA28881_00",
-                  "PPSA28883_00"
+                  "PPSA28884_00",
+                  "PPSA28882_00"
                 ]
               }
             },
@@ -812,13 +815,13 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ==",
-        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJR1ZiMWcrc0hTdnoxYyt1SEttZGlJdmNjalBQdnF1OEVLRnZ3bVNueDl6N09jRFpkVVM2Q25udC8rbjZkM21qTnZHdkZnMzRtNC9wTm5tWUVhK2dFd2tZc3YybW9vYkdDZWJkMWZkbm9zeFJKckxuVWpCVlBZR21wZVZPUHcifQ==",
-        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLeTNFSEQ0bEcvdmN2RHRleHZxdTN1blEyYmFQUUNxKzYvdzBrV1kwa2NGTXBhUTkrSE9rLzJwVHlRTURBdGJxWWVzNE5EbzUrTjYyUzhQN1JFRE0zcTI0anZlYXNxUjNYVG9xeXBQQUpsc0lkbVNIQjFaTHRyVmVHOXR6Vks3Z0MxL0RDM05tUWJxQzhlaTdWR0lmTjBISHRDMGtyN0dNK0YrOWpPNW9aVW52OXNuUmtxIn0="
+        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdlN3TFJ3WUNOekFyNElLaTIybXNqMEN3TWVHREwwZ0k2bEtoenNQSHBlL0l3SEJsd1JWSG5TSUU5R0pkd1A2c2xka01HNzQvZWtDVVBMZ3NQMUN3RFV6dTFJQ2xIS2F4bGNFam91RG5kMjNDMzlVRENYTVVlY0RpSXlWMmEifQ==",
+        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMWVcwVWhLZUZxSnJPeWpCNW1zdVhHUkN5czdjZ3U2RDc0eVIxWmxRbGdFUUFEc1NmMjA0N2IvS055dVdWUThxUFNpSXQ3UjZrSU83aFZNNzZCdnBaZlB1eTJVeXEyZVZVSUdwTTF0Q2hsVVBPcHFDNURSZEQ5cnlLWmM4TG9DWXlidEFDRVRHRlhSWCtWRmNYa0ZRcW5rSW5UTmtUZUU4SjhQSktCbnZBVEZXNTE0Y3pNIn0="
       },
       "game": "Delta Force",
       "gameId": "1314682894106497096",
       "id": "1543813403204788235",
-      "lastSeen": "2026-10-13T19:05:48.353Z",
+      "lastSeen": "2026-10-13T19:11:28.265Z",
       "name": "2nd Anniversary Season",
       "regions": [
         "RO",
@@ -835,7 +838,8 @@
         "CA",
         "UNKNOWN",
         "AT",
-        "AU"
+        "AU",
+        "MX"
       ],
       "reward": null
     },
@@ -1078,13 +1082,13 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ==",
-        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJR1ZiMWcrc0hTdnoxYyt1SEttZGlJdmNjalBQdnF1OEVLRnZ3bVNueDl6N09jRFpkVVM2Q25udC8rbjZkM21qTnZHdkZnMzRtNC9wTm5tWUVhK2dFd2tZc3YybW9vYkdDZWJkMWZkbm9zeFJKckxuVWpCVlBZR21wZVZPUHcifQ==",
-        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMNWNKSlVmamRWcDRjaWEvb2VSdWR6VmdSbXM5V0RVcW5CVHZBY2hzc2tGOEF2eEcxcnFOVGVOMU85bTN5UWdic1BtdFc5bWdtNHNFQlI0QytDWDJNSiswUnl5VUk4MGlGQTNDZTNQc05SWEhpbkppVVNTMGRuenE5czlaUDhzdGFBK0RBWitmcUJCKzdnS2s3U1NWaGJPSjJEbjRCTDVqZUpZQlpXeGo3aHZidzkyZ3pxIn0="
+        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdlN3TFJ3WUNOekFyNElLaTIybXNqMEN3TWVHREwwZ0k2bEtoenNQSHBlL0l3SEJsd1JWSG5TSUU5R0pkd1A2c2xka01HNzQvZWtDVVBMZ3NQMUN3RFV6dTFJQ2xIS2F4bGNFam91RG5kMjNDMzlVRENYTVVlY0RpSXlWMmEifQ==",
+        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMSWNmeFNqVFVzeWpXNE9lVFdKM0hHNmowL0E4VmZoQXc0SUFzOVNmWU1uTitEbDZWejNYT0xRNnFJZ29QNFFKbzVCN3VPeU1uN3JOOEpMNDVBbUk0c0ZnSnh6VFg1dGVnR3hSYjB4K3V0MUtUTG9aZHhMeHZ5Q2cvV3VHeTd6VUQ2L0lkbmJhRGVROExBVUV0T1plQ0gzUGtyeHlTeWhVWWkxcWk3L0dMcTk0eXRBWmtFIn0="
       },
       "game": "Dragonheir",
       "gameId": "1168655587958063205",
       "id": "1544550568742101012",
-      "lastSeen": "2026-10-13T19:05:48.353Z",
+      "lastSeen": "2026-10-13T19:11:28.265Z",
       "name": "Dragonheir: Chaos Revelry",
       "regions": [
         "RO",
@@ -1101,7 +1105,8 @@
         "CA",
         "UNKNOWN",
         "AT",
-        "AU"
+        "AU",
+        "MX"
       ],
       "reward": null
     },
@@ -1335,13 +1340,13 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ==",
-        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJR1ZiMWcrc0hTdnoxYyt1SEttZGlJdmNjalBQdnF1OEVLRnZ3bVNueDl6N09jRFpkVVM2Q25udC8rbjZkM21qTnZHdkZnMzRtNC9wTm5tWUVhK2dFd2tZc3YybW9vYkdDZWJkMWZkbm9zeFJKckxuVWpCVlBZR21wZVZPUHcifQ==",
-        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKcURiM2l2OHJFcXk5WDlHVENVUzFiNlZYT0pmQU1GRG9wSHg0R2JWMFBnSEJpZlB0NjJMR1JPaGZIMkIwOEx2K29tQlp1Z0VRSTVaUDRieUlxaFUwcUhLTWswbDlhK05MNHlWL3g1NGVuQ001NnJlOU4rVStMVE1MTXU0ak5vcVRWZXF5bklTVW5ZWUUwV2tjd1JVZC9BLy9ITEJyTE5zREtTT0hqNUZ6RENubkRtSTM5In0="
+        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdlN3TFJ3WUNOekFyNElLaTIybXNqMEN3TWVHREwwZ0k2bEtoenNQSHBlL0l3SEJsd1JWSG5TSUU5R0pkd1A2c2xka01HNzQvZWtDVVBMZ3NQMUN3RFV6dTFJQ2xIS2F4bGNFam91RG5kMjNDMzlVRENYTVVlY0RpSXlWMmEifQ==",
+        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKQWpkc1Y1WUdRNW1DS2t0VHY4cDdBT21ia0JxVlFFYTBYenpPSmE4Yk5lTXo3TWlOMzVoQ3oxOENRUGN3eklNdzJNTm1ubnUyRkticng3NE9OcVV3Z0VEdkIvV2V4UDZqUDBlZ3ArK1IvLzBRMkhQV3QzVWtwTEtsbjRSdkpmbkt6SUVDRmRKZWVFaEljVCtJWG14aVBHRnJDc0RjNnRqV2JsNEcvZnV5M0svc2ZITnE5In0="
       },
       "game": "Old School RuneScape",
       "gameId": "1180205756998488064",
       "id": "1550143303079567520",
-      "lastSeen": "2026-10-13T19:05:48.353Z",
+      "lastSeen": "2026-10-13T19:11:28.265Z",
       "name": "Old School Runescape",
       "regions": [
         "RO",
@@ -1358,7 +1363,8 @@
         "CA",
         "UNKNOWN",
         "AT",
-        "AU"
+        "AU",
+        "MX"
       ],
       "reward": null
     },
@@ -1696,13 +1702,13 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ==",
-        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJR1ZiMWcrc0hTdnoxYyt1SEttZGlJdmNjalBQdnF1OEVLRnZ3bVNueDl6N09jRFpkVVM2Q25udC8rbjZkM21qTnZHdkZnMzRtNC9wTm5tWUVhK2dFd2tZc3YybW9vYkdDZWJkMWZkbm9zeFJKckxuVWpCVlBZR21wZVZPUHcifQ==",
-        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdUxuQUtGVTM0K21pY0hDK1hnZWU4QUxEdCsvY3RqbWpjSHFBRmM5QkpuWE1PaGtZNHFoeUpnNG9xMEhBZlZ6d0JOK0tENzIxcHlSZkw3V2VsZ0x3TGxtVmc3RW5DY3RkTnc5NUlrREFjeFdCcGZCTmhSWGVGTjhkSWttc0JRN0lvNThzSUlod25iVlMxVFNkdDJZRDcyVFRzRGpybXFxM3pZWWxTSXk1WGpjUjc3dHkrIn0="
+        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdlN3TFJ3WUNOekFyNElLaTIybXNqMEN3TWVHREwwZ0k2bEtoenNQSHBlL0l3SEJsd1JWSG5TSUU5R0pkd1A2c2xka01HNzQvZWtDVVBMZ3NQMUN3RFV6dTFJQ2xIS2F4bGNFam91RG5kMjNDMzlVRENYTVVlY0RpSXlWMmEifQ==",
+        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKWGdQZzJaUlltZWxjb2pVck54a2VBcjVVMkNtNTVGWmhMQTQrY0hMZEpyT2FJMHJyUjk0U3Ird2RCUXd1U2lUMlNxOEpOT01weW4wMFF4WldodDVMS25qRHU2Z0lWTGpvNng2N2I2ZUkrbTlaSGNLZW44OXArck50dG9wRHV6SnVxZmZudTdneEJoSnJxanE1dHVidEpVZkE5Q0J6elJzQTV6VUk1dEZuTHh4c0phbCswIn0="
       },
       "game": "Marvel Rivals",
       "gameId": "1314395942253756416",
       "id": "1546355323118420009",
-      "lastSeen": "2026-10-13T19:05:48.353Z",
+      "lastSeen": "2026-10-13T19:11:28.265Z",
       "name": "Marvel Rivals S10: verify school email, get 10 free trial costumes",
       "regions": [
         "RO",
@@ -1719,7 +1725,8 @@
         "CA",
         "UNKNOWN",
         "AT",
-        "AU"
+        "AU",
+        "MX"
       ],
       "reward": null
     },
@@ -1835,13 +1842,13 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ==",
-        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJR1ZiMWcrc0hTdnoxYyt1SEttZGlJdmNjalBQdnF1OEVLRnZ3bVNueDl6N09jRFpkVVM2Q25udC8rbjZkM21qTnZHdkZnMzRtNC9wTm5tWUVhK2dFd2tZc3YybW9vYkdDZWJkMWZkbm9zeFJKckxuVWpCVlBZR21wZVZPUHcifQ==",
-        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJaUFOeWZRc3V2eXF3WDJCUjloUjduaExGWUFqS0lmemVXK1ZRaDJ0R1RPR0NuRC9JN2hMS08yNmo3UXJGYzVzSHVESk9DT3J4ZytIT2QyZThEM2JjK3c3cC9UdVdJSEt3M2R5UlV3MGt4MkZCYUlUcFJsVXUxN0JzMmNUcTE4VXNaeGt3dGhEQ3JRN1pSQ2QwdUJVVmY4UWJMTlc2ck5IRGk2WFZDN3U2ZFo2cWUwd3kwIn0="
+        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdlN3TFJ3WUNOekFyNElLaTIybXNqMEN3TWVHREwwZ0k2bEtoenNQSHBlL0l3SEJsd1JWSG5TSUU5R0pkd1A2c2xka01HNzQvZWtDVVBMZ3NQMUN3RFV6dTFJQ2xIS2F4bGNFam91RG5kMjNDMzlVRENYTVVlY0RpSXlWMmEifQ==",
+        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNVZPV2htd0pSWW5uVEFmV1RVZ0FEbDYwTTdoc2xTY1NPeW0rZTE5NnM1eUtkQ01pbVBLdmxoUVJRb01PRndNRlBmajIrMkwrZ0xRRisvdDVkbGxLc3FYRlg4dXNMRE9HK3pTZUVrL0RQOTJ5MnFvaEtOY2diejhscGovdGhQbHhvM3NYUFFsTUxGSzgyMEdJUk1XZkFQVWVVUHp2VXFvSlF1YXQxMzFOM0pnZ2tYZVArIn0="
       },
       "game": "Where Winds Meet",
       "gameId": "1437509662303059998",
       "id": "1541642467881783337",
-      "lastSeen": "2026-10-13T19:05:48.353Z",
+      "lastSeen": "2026-10-13T19:11:28.265Z",
       "name": "Where Winds Meet 2.2 Wuxia New Era",
       "regions": [
         "RO",
@@ -1858,7 +1865,8 @@
         "CA",
         "UNKNOWN",
         "AT",
-        "AU"
+        "AU",
+        "MX"
       ],
       "reward": null
     },
@@ -1961,13 +1969,13 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ==",
-        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJR1ZiMWcrc0hTdnoxYyt1SEttZGlJdmNjalBQdnF1OEVLRnZ3bVNueDl6N09jRFpkVVM2Q25udC8rbjZkM21qTnZHdkZnMzRtNC9wTm5tWUVhK2dFd2tZc3YybW9vYkdDZWJkMWZkbm9zeFJKckxuVWpCVlBZR21wZVZPUHcifQ==",
-        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLR0RYdVZTUTV6dmdVOEV6WFZBMUROVFpZUXQwbVpuYVhwMy82VU9hTmkrUm9jNW5aYTRrQzhCQ1NlYUExeEc1VXd0QlE1SHdJVmRoZGNYc2Vka3Q0cUZ6Qm5laS9WMDJjMTIrcmdYZ0E1MmxMVE03b2dhM0gvYmJMZ2w4VnNOaHpNdThyeHFyc2tDYUdCQWpuNThmekh3L2wza0lZZUxXa0wyc29lakhZK2xCVzRyUmJSIn0="
+        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdlN3TFJ3WUNOekFyNElLaTIybXNqMEN3TWVHREwwZ0k2bEtoenNQSHBlL0l3SEJsd1JWSG5TSUU5R0pkd1A2c2xka01HNzQvZWtDVVBMZ3NQMUN3RFV6dTFJQ2xIS2F4bGNFam91RG5kMjNDMzlVRENYTVVlY0RpSXlWMmEifQ==",
+        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJdzRqVmI3WGRYbUdTRGcxcVBxUS9NSll6cnlLVTQxQTBrZ2tDRGJTVDlJaTlhQ01ZNCtYWjRmcC90QzQzeUd0VlkxNWQ2cUc3YkxXV1VsM0dkUDdLNFVXcllETloxSFR0UWY1OEhlRnBGN3RsZVFDTUlhTFR3VXRMUlFyZ040TmI2ejFPcEVPVk9SZEQ0TnVPYlNtM25seVV5VE5JSUx5bm53eEtUNkFPU0swbGVWUXlaIn0="
       },
       "game": "Roblox",
       "gameId": "363445589247131668",
       "id": "1545515895353385011",
-      "lastSeen": "2026-10-13T19:05:48.353Z",
+      "lastSeen": "2026-10-13T19:11:28.265Z",
       "name": "RIVALS",
       "regions": [
         "RO",
@@ -1984,7 +1992,8 @@
         "CA",
         "UNKNOWN",
         "AT",
-        "AU"
+        "AU",
+        "MX"
       ],
       "reward": null
     },
@@ -2188,13 +2197,13 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ==",
-        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJR1ZiMWcrc0hTdnoxYyt1SEttZGlJdmNjalBQdnF1OEVLRnZ3bVNueDl6N09jRFpkVVM2Q25udC8rbjZkM21qTnZHdkZnMzRtNC9wTm5tWUVhK2dFd2tZc3YybW9vYkdDZWJkMWZkbm9zeFJKckxuVWpCVlBZR21wZVZPUHcifQ==",
-        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJdEVGOVdUMW90V3U0Q0d6NzR4cW5oNzRsckM5SUZsNThjN1BVd3lyaVlpa3lOd3FMaU40NTdKaHltZEpUUkJTeWZqSzdVWDVqWkx3VWJWR3ZiNW1qYWQ2clhJd0I4ZnF2cVZ1NWpRNkFQVG55TkVCUnAwa250U3RqbkVRa2NXYXJya1JxUy9QTnZOMEUvdUszMXVNYTdxUk9FRmh6V0djc1B3dWdVbU5iSHp4VjN6VVFlIn0="
+        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdlN3TFJ3WUNOekFyNElLaTIybXNqMEN3TWVHREwwZ0k2bEtoenNQSHBlL0l3SEJsd1JWSG5TSUU5R0pkd1A2c2xka01HNzQvZWtDVVBMZ3NQMUN3RFV6dTFJQ2xIS2F4bGNFam91RG5kMjNDMzlVRENYTVVlY0RpSXlWMmEifQ==",
+        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMVS9JZkZkSHVvOVJFVE5JeGdoK2tLVzVic2ZCcnc5dTl6VFZENHJYMFN4QVZ6VGlWNE1VQURRY0kxUWQ4bGFIWlJ5L2ppcHNGR1ZsZFc3bTNIY2dBR3lodUdsR3dTYmdLUkd0V2plL294ek9SVXVZamswSUNRcElRYXF2TExLR3Y1QktSVnFaVVJoYWIzK0xwdUJqeURiUzN4V3duNEhlbkZpa2VSdkJqRjhIbWRIVTBaIn0="
       },
       "game": "Roblox",
       "gameId": "363445589247131668",
       "id": "1545079125243600947",
-      "lastSeen": "2026-10-13T19:05:48.353Z",
+      "lastSeen": "2026-10-13T19:11:28.265Z",
       "name": "Iron Soul: Dungeon",
       "regions": [
         "RO",
@@ -2211,7 +2220,8 @@
         "CA",
         "UNKNOWN",
         "AT",
-        "AU"
+        "AU",
+        "MX"
       ],
       "reward": null
     },
@@ -2670,9 +2680,9 @@
                   }
                 ],
                 "external_ids": [
-                  "2016984284",
+                  "1923321130",
                   "2131196662",
-                  "1923321130"
+                  "2016984284"
                 ]
               },
               "PLAY_ON_PLAYSTATION": {
@@ -2723,13 +2733,13 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ==",
-        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJR1ZiMWcrc0hTdnoxYyt1SEttZGlJdmNjalBQdnF1OEVLRnZ3bVNueDl6N09jRFpkVVM2Q25udC8rbjZkM21qTnZHdkZnMzRtNC9wTm5tWUVhK2dFd2tZc3YybW9vYkdDZWJkMWZkbm9zeFJKckxuVWpCVlBZR21wZVZPUHcifQ==",
-        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKMkpyTzVqdC9FamVwSUpMUVZwZzJMN1RpWWRkZlpnSzkzVlRzOWY5Vmx0a0trdjY4bDhKNmZ4RXFMak9iWndmRXhzVEorZEJLeTFNLzl6d1hoNkR3dzZuK3NaaG95Si9nejJPVElFVjJTUnhWWEVTcjEzL1g5Zi9abnI3eWFQcnlFMlhvUEhFZEdYancvZkdNUCtCelRKZ0drNjNVV2piZzRRL0JXbWdNTW9WZk1NRjc2In0="
+        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdlN3TFJ3WUNOekFyNElLaTIybXNqMEN3TWVHREwwZ0k2bEtoenNQSHBlL0l3SEJsd1JWSG5TSUU5R0pkd1A2c2xka01HNzQvZWtDVVBMZ3NQMUN3RFV6dTFJQ2xIS2F4bGNFam91RG5kMjNDMzlVRENYTVVlY0RpSXlWMmEifQ==",
+        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKVWo5RGRSbG9xMitNK0poNFNkN0JiTVNjWEVYbllCbVdRZ0xMSTFZeEMyVXJyWTJDbGlvWWphamxobTNDdmorbG94eVFCYUUvRWJMRHBmL1FkOU5DR1FqdmhoWGsxNEpudTBiSGtzejkydE8wemxNVDI5YmpraHh4Qm5ZZG5icVpzeGtwUUJxaXB0RjFYSkhNNTJjOGI0b3daM1gzdmhDaWNreXQvMFIzdEhLc3VVV2RiIn0="
       },
       "game": "Onimusha: Way of the Sword",
       "gameId": "1512292746889662576",
       "id": "1539692903037796422",
-      "lastSeen": "2026-10-13T19:05:48.353Z",
+      "lastSeen": "2026-10-13T19:11:28.265Z",
       "name": "Onimusha: Way of the Sword Demo",
       "regions": [
         "RO",
@@ -2746,7 +2756,8 @@
         "CA",
         "UNKNOWN",
         "AT",
-        "AU"
+        "AU",
+        "MX"
       ],
       "reward": null
     },
@@ -2849,13 +2860,13 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ==",
-        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJR1ZiMWcrc0hTdnoxYyt1SEttZGlJdmNjalBQdnF1OEVLRnZ3bVNueDl6N09jRFpkVVM2Q25udC8rbjZkM21qTnZHdkZnMzRtNC9wTm5tWUVhK2dFd2tZc3YybW9vYkdDZWJkMWZkbm9zeFJKckxuVWpCVlBZR21wZVZPUHcifQ==",
-        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMRDZGQ01mMC8vZ2pXdGp3aWZFK0FTcFhBOE9RdUlHc1RMeXAzRjJISFp2cFVTTjZaZHNBcGdaK2NYZ1p6MHpPYmlPUnI0WDB1TGloQmRHdnJRZ3pPeEVTakFQRmVFazNaczVWNXJWL1V6OXJ0dnYyQmpSbCtEM2hCOTVCVjhMVGpwZlpYa3B4eUVTUU4yMjUwUDR4dS92UWNhbUZESzVyWXc1ZTREY2M0dGsrRkV5LzV2In0="
+        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdlN3TFJ3WUNOekFyNElLaTIybXNqMEN3TWVHREwwZ0k2bEtoenNQSHBlL0l3SEJsd1JWSG5TSUU5R0pkd1A2c2xka01HNzQvZWtDVVBMZ3NQMUN3RFV6dTFJQ2xIS2F4bGNFam91RG5kMjNDMzlVRENYTVVlY0RpSXlWMmEifQ==",
+        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKdDgxaDc1bHl1UWZFZi8vM0w0dDZuYjBRdm1HcklkVVdtU1Q3SDVIaXNra1lLd0JIRXhvbzRpbFdjWXZacmZ3U2lrNHhwRkRnT1FTd21WSkRXOW10TnpKaEhyckNSQlR4Rm94eHRUNzNsQTVaZ3BhcWxwOTA5R204cTBYRWZZMGJWSHMxakUyVzlyR3NvTVFWQWwveHBBZjVZOXc1SFhEYUhpVWFFOTh6OVdUbUt4SUdDIn0="
       },
       "game": "Arknights: Endfield",
       "gameId": "1461154307171811401",
       "id": "1542685543295361096",
-      "lastSeen": "2026-10-13T19:05:48.353Z",
+      "lastSeen": "2026-10-13T19:11:28.265Z",
       "name": "Version Update: Typhoeus",
       "regions": [
         "RO",
@@ -2872,7 +2883,8 @@
         "CA",
         "UNKNOWN",
         "AT",
-        "AU"
+        "AU",
+        "MX"
       ],
       "reward": null
     },
@@ -3098,8 +3110,8 @@
                   }
                 ],
                 "external_ids": [
-                  "PPSA39621_00",
-                  "PPSA35870_00"
+                  "PPSA35870_00",
+                  "PPSA39621_00"
                 ]
               }
             },
@@ -3150,13 +3162,13 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ==",
-        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJR1ZiMWcrc0hTdnoxYyt1SEttZGlJdmNjalBQdnF1OEVLRnZ3bVNueDl6N09jRFpkVVM2Q25udC8rbjZkM21qTnZHdkZnMzRtNC9wTm5tWUVhK2dFd2tZc3YybW9vYkdDZWJkMWZkbm9zeFJKckxuVWpCVlBZR21wZVZPUHcifQ==",
-        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMSkZ5WWhwcDYzdERMRUd0NzNLS2o2YUV6S3BGRmxOQ3grTjlHejMvL0g1eGM0ME9uUGFRUWtyZ1I0UjQxYVZsT29mdUpjQzk1WXdDSEZPY3ZXalJ6U1hJanpMcW5NRUtXK3BDRTZzK2RTOE9xNmloa2ViSXBpdjlBY2RxYnFkS3psZ3Z5QlhKSHVNRzBPZlhoc2pKUDlWZzNKN0gzZm5sQXF1TEtsdGtDSEI4VTBUbVNNIn0="
+        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdlN3TFJ3WUNOekFyNElLaTIybXNqMEN3TWVHREwwZ0k2bEtoenNQSHBlL0l3SEJsd1JWSG5TSUU5R0pkd1A2c2xka01HNzQvZWtDVVBMZ3NQMUN3RFV6dTFJQ2xIS2F4bGNFam91RG5kMjNDMzlVRENYTVVlY0RpSXlWMmEifQ==",
+        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLZVRMcU5KWmZ1YnlYZDlROGtrZDM4V0FmVzRuMVNxS0JRY2djWU43QTdpWDBiajdsZVJ6dStGTEsrNXBWTyswUnVoTmVYVUVHQms5QXN0ekRySXloMkFhbXVFeHhmOWtWQWFPWC8wRlZ4NStPYXhtMTdRTXlhUk51MktxMWFObCsxWDdWdk5UVVpzQkdQNkd0MldGVmg4UWhTSUxwTnNUMEFEUHo5UmlHU2F0UUkvaXQrIn0="
       },
       "game": "Aniimo",
       "gameId": "1468082130474111047",
       "id": "1542696151122321490",
-      "lastSeen": "2026-10-13T19:05:48.353Z",
+      "lastSeen": "2026-10-13T19:11:28.265Z",
       "name": "ANIIMO GLOBAL LAUNCH",
       "regions": [
         "RO",
@@ -3173,7 +3185,8 @@
         "CA",
         "UNKNOWN",
         "AT",
-        "AU"
+        "AU",
+        "MX"
       ],
       "reward": null
     },
@@ -3262,16 +3275,16 @@
                   }
                 ],
                 "external_ids": [
+                  "2110974782",
                   "2108722049",
                   "2143033449",
-                  "2011061477",
+                  "1658810016",
                   "2027691162",
-                  "2103789015",
-                  "2110974782",
-                  "1852916479",
                   "2143308729",
                   "1687588412",
-                  "1658810016"
+                  "2011061477",
+                  "1852916479",
+                  "2103789015"
                 ]
               },
               "PLAY_ON_PLAYSTATION": {
@@ -3283,41 +3296,41 @@
                   }
                 ],
                 "external_ids": [
-                  "PPSA35672_00",
-                  "PPSA36562_00",
-                  "PPSA07412_00",
-                  "PPSA07862_00",
-                  "PPSA02632_00",
-                  "PPSA09418_00",
-                  "PPSA18999_00",
-                  "PPSA35673_00",
-                  "PPSA02633_00",
-                  "PPSA30803_00",
-                  "PPSA36563_00",
-                  "PPSA26873_00",
-                  "PPSA24306_00",
-                  "PPSA31246_00",
-                  "CUSA31498_00",
-                  "CUSA33388_00",
                   "PPSA02530_00",
-                  "CUSA37742_00",
+                  "PPSA19000_00",
                   "PPSA02635_00",
-                  "PPSA02634_00",
-                  "PPSA36561_00",
-                  "PPSA19001_00",
-                  "PPSA07411_00",
-                  "PPSA24191_00",
                   "CUSA33387_00",
                   "CUSA31497_00",
                   "CUSA46747_00",
+                  "CUSA35714_00",
+                  "PPSA18999_00",
+                  "PPSA36561_00",
+                  "PPSA07411_00",
+                  "PPSA24191_00",
+                  "PPSA19001_00",
+                  "CUSA37742_00",
+                  "PPSA31247_00",
+                  "PPSA02633_00",
+                  "PPSA24306_00",
+                  "PPSA31246_00",
+                  "PPSA30803_00",
+                  "PPSA36563_00",
+                  "PPSA26873_00",
                   "CUSA31499_00",
                   "CUSA37739_00",
-                  "CUSA37741_00",
-                  "CUSA31500_00",
+                  "PPSA35672_00",
+                  "PPSA36562_00",
+                  "PPSA09418_00",
+                  "PPSA07412_00",
+                  "PPSA07862_00",
+                  "PPSA02632_00",
                   "CUSA37740_00",
-                  "CUSA35714_00",
-                  "PPSA31247_00",
-                  "PPSA19000_00"
+                  "CUSA31500_00",
+                  "CUSA37741_00",
+                  "CUSA31498_00",
+                  "PPSA02634_00",
+                  "CUSA33388_00",
+                  "PPSA35673_00"
                 ]
               }
             },
@@ -3368,13 +3381,13 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ==",
-        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJR1ZiMWcrc0hTdnoxYyt1SEttZGlJdmNjalBQdnF1OEVLRnZ3bVNueDl6N09jRFpkVVM2Q25udC8rbjZkM21qTnZHdkZnMzRtNC9wTm5tWUVhK2dFd2tZc3YybW9vYkdDZWJkMWZkbm9zeFJKckxuVWpCVlBZR21wZVZPUHcifQ==",
-        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLbEV0SHdoUzAzYTl6Vi9HUUs2YWdVVjZ6dE1yNjBVcnlFMUE0MkNINXVJVXNGQVFPbWIxTHFSY2pOODlEZlM2NVNmc0hHdkNNZE9sQkhoTHBDMnJUcjJHNjRRcE56c2dxdyswbzh2YzRhT0RneEtleW5UbjhVUzRqOHUrcEtsQ0wzVnE3TFJiOEJBZHlzVnBla1JqU1F5QjBQMzFoeEdNUFN0MkRBRWtRQ3VCdUFQa05CIn0="
+        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdlN3TFJ3WUNOekFyNElLaTIybXNqMEN3TWVHREwwZ0k2bEtoenNQSHBlL0l3SEJsd1JWSG5TSUU5R0pkd1A2c2xka01HNzQvZWtDVVBMZ3NQMUN3RFV6dTFJQ2xIS2F4bGNFam91RG5kMjNDMzlVRENYTVVlY0RpSXlWMmEifQ==",
+        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMUW44Q0o2NFh2a3ZtaWZ4R2kvWFlEN0pXNEltdjNwdWR6TFJwQ3hhNmtYZHE1V3JEQStOdTRlVmFPNTRQSEt2NGZqZUQ5cWt1ZkYxcTh0UjVDck1VTG05eGw1VFMxTk52MktXNHJ4M1QwWHhmM3hFZ3VCUjgzSm1xL2IxcjdnckNleGFPalhUN3VjRm54d2NtT3pHcmJCdDhoOXd2dlRzR283LzdkanNKdXZKcjQvdzhlIn0="
       },
       "game": "Resident Evil Requiem",
       "gameId": "1456485028350656512",
       "id": "1545527302681661540",
-      "lastSeen": "2026-10-13T19:05:48.353Z",
+      "lastSeen": "2026-10-13T19:11:28.265Z",
       "name": "CAPCOM TGS Deals",
       "regions": [
         "RO",
@@ -3391,7 +3404,8 @@
         "CA",
         "UNKNOWN",
         "AT",
-        "AU"
+        "AU",
+        "MX"
       ],
       "reward": null
     },
@@ -3623,13 +3637,13 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ==",
-        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJR1ZiMWcrc0hTdnoxYyt1SEttZGlJdmNjalBQdnF1OEVLRnZ3bVNueDl6N09jRFpkVVM2Q25udC8rbjZkM21qTnZHdkZnMzRtNC9wTm5tWUVhK2dFd2tZc3YybW9vYkdDZWJkMWZkbm9zeFJKckxuVWpCVlBZR21wZVZPUHcifQ==",
-        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN3Q5QjNVa1YwKytLd3FrWTZGM3VXNXdHaHJkMFo2a214bW9hdzRWd0pPampQTXR2U0FtMCttU1U5TENJVUFjYVhTT0FZa0ZGWEhjOFFOcmM2RHp2TElzQ1lWREZnZ1FGSmY4Z1J3SDBwYUhHRTZjcVBQWC9WRjRYQkltZWxSOEQ3TWF1VVkwV2d2Zm9tS2ZXTStzejkrU1pQaGVTWU01eUloNlNxSlNyTlBqVyttNitZIn0="
+        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdlN3TFJ3WUNOekFyNElLaTIybXNqMEN3TWVHREwwZ0k2bEtoenNQSHBlL0l3SEJsd1JWSG5TSUU5R0pkd1A2c2xka01HNzQvZWtDVVBMZ3NQMUN3RFV6dTFJQ2xIS2F4bGNFam91RG5kMjNDMzlVRENYTVVlY0RpSXlWMmEifQ==",
+        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLYW1VYTNJdUhEQng5Y3J6WEx0WlhyYUphbnNIVnJpc2hqbVpGakVtNitxZEVDOC9lOU5Yd3hJY1ZpY09lbG44R1dNVlN5WGhjK3ZSNDF4cm5aSlFJNTdrMXVsMCsxTElSL0ZDN1VKSGJWR0M1MklKbndpbkdhY2xZS0RuYTlDckNVTEVFRnlWeHZnbzJ3dUU3RERxTm5KRnBoWVl6amhObkJvU0R0Qnh4NHRzMWdOcWREIn0="
       },
       "game": "Roblox",
       "gameId": "363445589247131668",
       "id": "1549493465941942383",
-      "lastSeen": "2026-10-13T19:05:48.353Z",
+      "lastSeen": "2026-10-13T19:11:28.265Z",
       "name": "ROBLOX",
       "regions": [
         "RO",
@@ -3646,7 +3660,8 @@
         "CA",
         "UNKNOWN",
         "AT",
-        "AU"
+        "AU",
+        "MX"
       ],
       "reward": null
     },
@@ -4191,13 +4206,13 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ==",
-        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJR1ZiMWcrc0hTdnoxYyt1SEttZGlJdmNjalBQdnF1OEVLRnZ3bVNueDl6N09jRFpkVVM2Q25udC8rbjZkM21qTnZHdkZnMzRtNC9wTm5tWUVhK2dFd2tZc3YybW9vYkdDZWJkMWZkbm9zeFJKckxuVWpCVlBZR21wZVZPUHcifQ==",
-        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKaUdoZ1dLb1JObHBYNFpjQkczTU1uSCtNeGZoUFhHcDJUN2RBdWlQdjB4TFloNlBBTThjMFM5UjlibEdxbjZIZnRGYzZWdXBNNnpvSVpPK3d4TlZDVE5BSGx5NDg0eTFmWWQxSVcvSWdCZWdpVk9VWVZwWDI0ckdZWk5GRTRJSCtaTVRCelhYeXV4bGt1eFNzaUxuaG1vaWxiOFBlSFN4UUNUYkpJQlNtcmQwTUUrcngyIn0="
+        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdlN3TFJ3WUNOekFyNElLaTIybXNqMEN3TWVHREwwZ0k2bEtoenNQSHBlL0l3SEJsd1JWSG5TSUU5R0pkd1A2c2xka01HNzQvZWtDVVBMZ3NQMUN3RFV6dTFJQ2xIS2F4bGNFam91RG5kMjNDMzlVRENYTVVlY0RpSXlWMmEifQ==",
+        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLMHJ2Nld1VmlCZk93UjdqbzNhOEQrdmduZ3VYWFVoVWgzb29lSC9zd3U0MnY5b2pvQ0daTldzZGI5dEF0cHpZdHltQVd6YlZqVGthcXc1U29YL3BlckY1YUNyU1dxeTJQMTc2SXJWUlo3U3ZaSlBHZHIxbXpaMHhXYkVPaDFtSXM2Nkh6clJ5ZmxCR1BrdWU2ZEZVL2gzaFp2RDVuYkN4bDE0QlFnaUtlaUsreFloYXN1In0="
       },
       "game": "Gravebound",
       "gameId": "1551691007387508878",
       "id": "1539421708417765386",
-      "lastSeen": "2026-10-13T19:05:48.353Z",
+      "lastSeen": "2026-10-13T19:11:28.265Z",
       "name": "Gravebound Early Access Launch",
       "regions": [
         null,
@@ -4205,7 +4220,8 @@
         "RO",
         "US",
         "AT",
-        "AU"
+        "AU",
+        "MX"
       ],
       "reward": null
     },
@@ -4280,9 +4296,9 @@
                 ],
                 "external_ids": [
                   "PPSA04873_00",
-                  "PPSA04874_00",
+                  "CUSA12552_00",
                   "CUSA12540_00",
-                  "CUSA12552_00"
+                  "PPSA04874_00"
                 ]
               }
             },
@@ -4324,20 +4340,21 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ==",
-        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJR1ZiMWcrc0hTdnoxYyt1SEttZGlJdmNjalBQdnF1OEVLRnZ3bVNueDl6N09jRFpkVVM2Q25udC8rbjZkM21qTnZHdkZnMzRtNC9wTm5tWUVhK2dFd2tZc3YybW9vYkdDZWJkMWZkbm9zeFJKckxuVWpCVlBZR21wZVZPUHcifQ==",
-        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKV2QweVd6LytpdUUxalFpR1JlWVA5RjMvUUhTamtmTFBORTcwUmE5OTI0SDZVWmNRQUZtT2Z2N2pyV29UWnhNS1gxRXl6dXNTTm5hbXNNU3ZPYnhNQUtGZG03cWNqTElPOUpPRkFBN0VGSnUzcy8vNURZMnBwMVZMcy9DWVFzWUpWOS9nc3dlT3dpS2gwNXlRbzVEQXl6akNxYXhLZ0hINmdqaUROVmZxVEhJTzd5RkxKIn0="
+        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdlN3TFJ3WUNOekFyNElLaTIybXNqMEN3TWVHREwwZ0k2bEtoenNQSHBlL0l3SEJsd1JWSG5TSUU5R0pkd1A2c2xka01HNzQvZWtDVVBMZ3NQMUN3RFV6dTFJQ2xIS2F4bGNFam91RG5kMjNDMzlVRENYTVVlY0RpSXlWMmEifQ==",
+        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLRWN2VytVbzVwNlB0Z21yRzU3ZDlLNVdTMmYvdlQzVkVhZnExYXlvZ0VkTmRDRG9mWDlUYkpyUGZPTFlFTmkyeHpHY0J1bDFwT2VWbGF2Y3h6LzJnR3h1eXhHV3kyLzN1VmhRZGJYM0VhNmxTUSt2NjZxK3YyTmRHdzZralA5bVlPQ1RjU0Vaa0pPcnRLUUhMZE1Cdjh3RHlvelMzc1JqdFBseVM1WlhPb3daWGVCdEVLIn0="
       },
       "game": "Apex Legends",
       "gameId": "542075586886107149",
       "id": "1549171029241233449",
-      "lastSeen": "2026-10-13T19:05:48.353Z",
+      "lastSeen": "2026-10-13T19:11:28.265Z",
       "name": "Apex VS Street Fighter 6 Event",
       "regions": [
         "RO",
         null,
         "US",
         "AT",
-        "AU"
+        "AU",
+        "MX"
       ],
       "reward": null
     },
@@ -4428,20 +4445,21 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ==",
-        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJR1ZiMWcrc0hTdnoxYyt1SEttZGlJdmNjalBQdnF1OEVLRnZ3bVNueDl6N09jRFpkVVM2Q25udC8rbjZkM21qTnZHdkZnMzRtNC9wTm5tWUVhK2dFd2tZc3YybW9vYkdDZWJkMWZkbm9zeFJKckxuVWpCVlBZR21wZVZPUHcifQ==",
-        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJVUlJbTlMQzFoU1o2R3ZvZEZaeFhMUXNWUC95Nm9ORnZyL0w5UVh2Vm1OVlFVK3ZqWTZWbUgwV2lORWVRc1pqdmpnd0FkOFdiMjJjb2x3Z2ZpUXlqMTJjTzZnR0tiN25PY3JRYTRMUGszZ2NCRHhVeVQ3ZjJHNnNHOTQ4ZEl4ZHNRd2JkSE5JUDZURE8wWjh2b3lFUFNrUlpHRGc4M01pOWw0a2M1V0FGQ3lGQ2JzN3hZIn0="
+        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdlN3TFJ3WUNOekFyNElLaTIybXNqMEN3TWVHREwwZ0k2bEtoenNQSHBlL0l3SEJsd1JWSG5TSUU5R0pkd1A2c2xka01HNzQvZWtDVVBMZ3NQMUN3RFV6dTFJQ2xIS2F4bGNFam91RG5kMjNDMzlVRENYTVVlY0RpSXlWMmEifQ==",
+        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMT0ptRFBwdDhDMmpNY1diazBGdDM2KzgzcDhnSUVpamd5SlFhYlJQTVF6cS9RYXcrVDgzcWhCT0FvVE52YW1MUW82YURZRUtidm54L0VwZFBDWDRuS3BuRi9nKzlaM1Q2cHZvamhjWDJIV2w5VDUzUDNnTkh1STR0RldqYUVGUHRzZGs4R2FCNFR0RWR4MU8rYytndmhPU3B1aHRyZGNNbmZ3TFZaNHZBYVd6WGxWVVhnIn0="
       },
       "game": "Roblox",
       "gameId": "363445589247131668",
       "id": "1552026065491202149",
-      "lastSeen": "2026-10-13T19:05:48.353Z",
+      "lastSeen": "2026-10-13T19:11:28.265Z",
       "name": "Animal Hospital",
       "regions": [
         "RO",
         "US",
         null,
         "AT",
-        "AU"
+        "AU",
+        "MX"
       ],
       "reward": null
     },
@@ -4544,20 +4562,21 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ==",
-        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJR1ZiMWcrc0hTdnoxYyt1SEttZGlJdmNjalBQdnF1OEVLRnZ3bVNueDl6N09jRFpkVVM2Q25udC8rbjZkM21qTnZHdkZnMzRtNC9wTm5tWUVhK2dFd2tZc3YybW9vYkdDZWJkMWZkbm9zeFJKckxuVWpCVlBZR21wZVZPUHcifQ==",
-        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLS1JUWldCQTM5ZUM5bHN5bUFXemFybk5Vay9wVHUxekVBL3hZeEw4Zm9DTUY0S0ZUc3I4L09ucmZ0ZmhXRjJISE9nSnA4K2xUY045dEw1ZDFReDBMbmQ0cGlnREM1SUtNdk10anoza1NiMllzSXZGYUpsNjJjTmNXeWJsOGhHanMyU25BelkxSWVyRkZZT3dOVHhERXhXejhyNzEzVXFKVkpDSXI5VSt0Z0pMK25hOUlNIn0="
+        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdlN3TFJ3WUNOekFyNElLaTIybXNqMEN3TWVHREwwZ0k2bEtoenNQSHBlL0l3SEJsd1JWSG5TSUU5R0pkd1A2c2xka01HNzQvZWtDVVBMZ3NQMUN3RFV6dTFJQ2xIS2F4bGNFam91RG5kMjNDMzlVRENYTVVlY0RpSXlWMmEifQ==",
+        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKcTNQWStXTWtTVldNVTE5UFlQM0dqdVNHdlNPWDhzRklXUjV4RmtHdnlkOWZFTGNpL0JIZjhOOGFkdm80eENiQ0RoQVR5ZDYvdWl6bTJWMUJxdENyVVR4MGw3TERaMmg3TDR0V0pSR1EzSitrZEQrVFRaNG5OZ3NCWS90VDZzZ3BQSzZYNXZYUlZLUnJabXdSYjY1bmwweFAveWNpRmhkUE5ac1ZNSlc2MlFpQitzUHkzIn0="
       },
       "game": "Arknights: Endfield",
       "gameId": "1461154307171811401",
       "id": "1550528900788912231",
-      "lastSeen": "2026-10-13T19:05:48.353Z",
+      "lastSeen": "2026-10-13T19:11:28.265Z",
       "name": "Typhoeus",
       "regions": [
         "RO",
         "US",
         null,
         "AT",
-        "AU"
+        "AU",
+        "MX"
       ],
       "reward": null
     },
@@ -4619,8 +4638,8 @@
                   }
                 ],
                 "external_ids": [
-                  "1675858627",
-                  "2047118660"
+                  "2047118660",
+                  "1675858627"
                 ]
               },
               "PLAY_ON_PLAYSTATION": {
@@ -4632,9 +4651,9 @@
                   }
                 ],
                 "external_ids": [
-                  "CUSA58964_00",
                   "CUSA57220_00",
-                  "PPSA34015_00"
+                  "PPSA34015_00",
+                  "CUSA58964_00"
                 ]
               }
             },
@@ -4673,20 +4692,21 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ==",
-        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJR1ZiMWcrc0hTdnoxYyt1SEttZGlJdmNjalBQdnF1OEVLRnZ3bVNueDl6N09jRFpkVVM2Q25udC8rbjZkM21qTnZHdkZnMzRtNC9wTm5tWUVhK2dFd2tZc3YybW9vYkdDZWJkMWZkbm9zeFJKckxuVWpCVlBZR21wZVZPUHcifQ==",
-        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJUnRVQk1jT043dGJvY1l3N2hSSlIvUGlnMjZpdS9sdWRXNHFGdzVBOFh1dktSNzJ1TUY5NEpiTHhqa2tHZzRXdVVnWlN5UnhBNURlMzd5eWN2MHlMS1hkMERvQUJudlQ4VS9ITFI3eExzVEFhZ2drOVcreUQ2bzN1ZUpsdTl6VmlMQ2FWK0pFOVFOKzk0Y0dHVjVrQTZnS216MzJhUGRWV2pRb2d4cXJTeXBqa2RzRGpXIn0="
+        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdlN3TFJ3WUNOekFyNElLaTIybXNqMEN3TWVHREwwZ0k2bEtoenNQSHBlL0l3SEJsd1JWSG5TSUU5R0pkd1A2c2xka01HNzQvZWtDVVBMZ3NQMUN3RFV6dTFJQ2xIS2F4bGNFam91RG5kMjNDMzlVRENYTVVlY0RpSXlWMmEifQ==",
+        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMWFJMYnA4NW5xdmV0aktmNldtaEpxV2NxWTVjRGtKTE1adGJYT2s5a1RLQUZ6UXNKdGxHSnBuWDFoRjVQelJGb21RUlgxbjBYMHI0b1orWWc2L1ZacFpNQ3J1MnQxejgvRmJLdS9adll6Wk1QVFROQ1BBVE5BNTdwQmw3NmIzQXFJMFVqZ3FIbUpVMEwyem4rNDhDVnhJMWsrWDlyUWpWZy96cE1wWWFsaUtSR0g1TG9pIn0="
       },
       "game": "EA Sports FC 27",
       "gameId": "1531874756096295054",
       "id": "1552793125028634754",
-      "lastSeen": "2026-10-13T19:05:48.353Z",
+      "lastSeen": "2026-10-13T19:11:28.265Z",
       "name": "EA SPORTS FC™ 27",
       "regions": [
         "RO",
         "US",
         "AT",
         null,
-        "AU"
+        "AU",
+        "MX"
       ],
       "reward": null
     },
@@ -4789,20 +4809,21 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ==",
-        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJR1ZiMWcrc0hTdnoxYyt1SEttZGlJdmNjalBQdnF1OEVLRnZ3bVNueDl6N09jRFpkVVM2Q25udC8rbjZkM21qTnZHdkZnMzRtNC9wTm5tWUVhK2dFd2tZc3YybW9vYkdDZWJkMWZkbm9zeFJKckxuVWpCVlBZR21wZVZPUHcifQ==",
-        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLU3ZsZVdML0ZoWVJtVzczL2FIYUhpaDhFeHlKdTdCSC9qNkxsc1k4WU5kNWJScm0rOHZ3YW9CVG45b2gvQk5VdVl6d0J0Y2kvMHk2bWs4Y3RNRVYxN255alhyd1YvMStSalZTSlNpZTFpYk5JekpSUDRrcGdlNGdkcldPQXVmU2tlYWMzRUIvM1FseFB0dmE2MGUvRlZQeDhTejhDQlMxLzJncXNwWTlEd2dsQzE2SmNLIn0="
+        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdlN3TFJ3WUNOekFyNElLaTIybXNqMEN3TWVHREwwZ0k2bEtoenNQSHBlL0l3SEJsd1JWSG5TSUU5R0pkd1A2c2xka01HNzQvZWtDVVBMZ3NQMUN3RFV6dTFJQ2xIS2F4bGNFam91RG5kMjNDMzlVRENYTVVlY0RpSXlWMmEifQ==",
+        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMUFY0UmNVb204TGF3T2JiMzRWNW9walhMeEFidmRzczUvdjJ2WXlQUFJZYy92VFkyU0xqNUNzdUcrY0h4bGZwNCtqeXBDbGhVL1AyYng2cEhqN3JsdFhiZkdFRGR0SG1aZHQ3ZDh6TlhZMFFKMWt6YXI2WEErNVVHaDhGR09uSWxxSHM3bi9vTVZoSWk5aUR6YlpjQW9HbzlETUo2S2YyMnZVcEd0N2lodGJXQzFUNlRBIn0="
       },
       "game": "Hellraiser: Revival",
       "gameId": "1552168352116641822",
       "id": "1552790924445356043",
-      "lastSeen": "2026-10-13T19:05:48.353Z",
+      "lastSeen": "2026-10-13T19:11:28.265Z",
       "name": "Clive Barker's Hellraiser: Revival ",
       "regions": [
         "RO",
         "US",
         "AT",
         null,
-        "AU"
+        "AU",
+        "MX"
       ],
       "reward": null
     },
@@ -4917,20 +4938,21 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ==",
-        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJR1ZiMWcrc0hTdnoxYyt1SEttZGlJdmNjalBQdnF1OEVLRnZ3bVNueDl6N09jRFpkVVM2Q25udC8rbjZkM21qTnZHdkZnMzRtNC9wTm5tWUVhK2dFd2tZc3YybW9vYkdDZWJkMWZkbm9zeFJKckxuVWpCVlBZR21wZVZPUHcifQ==",
-        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKeUFlbnZ4ZUc3cFlFR1o3d1d2YzRIb01RcFlNL0FpOUpjOUExYzVmWmJRRnh2UmFrL3l3aUlXb0VnamxzOFFyOUNtVkFkYjdMMStBaDVPaWZyb25EcDZzVStnUXpsRm9tVnFqd0pJQnBmN0MwRENSVlJCQW1Yenh4MVdhcjF0bkZMcGNhN2FFdFRPTXRueU00ckRLSmljT0VXODUwcU9hUkY1S05EUEoyL2xGTW1OVTN4In0="
+        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdlN3TFJ3WUNOekFyNElLaTIybXNqMEN3TWVHREwwZ0k2bEtoenNQSHBlL0l3SEJsd1JWSG5TSUU5R0pkd1A2c2xka01HNzQvZWtDVVBMZ3NQMUN3RFV6dTFJQ2xIS2F4bGNFam91RG5kMjNDMzlVRENYTVVlY0RpSXlWMmEifQ==",
+        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMWVRDMW1UdnpVamUva1YzbDBiWU0xMWVzRHV1T2pqTGNGa1FvNlJKOHRBTGNmdmxYUGZKcGZYZmJGdndLcGFpUFNRQnRUOGNJTmdrWWs1dmtBelVRQmE2RDB0UytJelNPRDJhTFc0U1FMbHlWSE1NK09GNlpuQi9mTEJrazY1OUdsSUhVNXBqWEgzZUl1MGJ1M2lBYkZpRHZTT0t1K0tSRHVkaU0rWHJXb0dhbU1hTWNBIn0="
       },
       "game": "Arknights: Endfield",
       "gameId": "1461154307171811401",
       "id": "1550543095911678094",
-      "lastSeen": "2026-10-13T19:05:48.353Z",
+      "lastSeen": "2026-10-13T19:11:28.265Z",
       "name": "Typhoeus",
       "regions": [
         "RO",
         "US",
         "AT",
         null,
-        "AU"
+        "AU",
+        "MX"
       ],
       "reward": null
     },
@@ -4994,8 +5016,8 @@
                   }
                 ],
                 "external_ids": [
-                  "PPSA32192_00",
-                  "PPSA26558_00"
+                  "PPSA26558_00",
+                  "PPSA32192_00"
                 ]
               }
             },
@@ -5034,20 +5056,21 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ==",
-        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJR1ZiMWcrc0hTdnoxYyt1SEttZGlJdmNjalBQdnF1OEVLRnZ3bVNueDl6N09jRFpkVVM2Q25udC8rbjZkM21qTnZHdkZnMzRtNC9wTm5tWUVhK2dFd2tZc3YybW9vYkdDZWJkMWZkbm9zeFJKckxuVWpCVlBZR21wZVZPUHcifQ==",
-        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLTFBpTklEMjJNaHFLa0FvNVIyaVN6TU1DMnNvR2NqV0hQYkh0UEpBZGxOVWJNNEtCM0ZyYnZCaEh3S0MzelpWSllyeXIva1IzUmpIY29xTUNEdUJjRVozbmpxbjYyMUdwNlFNYUlCV1dNTEZBclZGbUdGa1llRWpuR0NKRzZ4cE8wS295cmNFNnF0aW14WmFFTnEzdUVUYnU4MFdwV1V4MnpadHRPT3A4NHdBWFZIaFc3In0="
+        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdlN3TFJ3WUNOekFyNElLaTIybXNqMEN3TWVHREwwZ0k2bEtoenNQSHBlL0l3SEJsd1JWSG5TSUU5R0pkd1A2c2xka01HNzQvZWtDVVBMZ3NQMUN3RFV6dTFJQ2xIS2F4bGNFam91RG5kMjNDMzlVRENYTVVlY0RpSXlWMmEifQ==",
+        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLTXJUMis0dElhUDFMbDRrWEdGRytiSDE1ZkM4M0lxaWhaUEg2QitnalFqS2hlNVMxdjc0Sjg0STRwbVN2TzhzR0hteUp4SzhUV2lYSmxtekZhSXBlM2gxQlV5bVhvdHZNOEhSZThwYlN3VC9PSU8vRnFxM29KSHpRY2xIQ2d0NUtiVk5LazZyMkxoZG05T0xTeFpkUlFObG4xWG9RWGtVcit3MlBNSlp0cU1COU8rempzIn0="
       },
       "game": "Neverness to Everness",
       "gameId": "1470616226995765409",
       "id": "1550563498394787951",
-      "lastSeen": "2026-10-13T19:05:48.353Z",
+      "lastSeen": "2026-10-13T19:11:28.265Z",
       "name": "NTE Half Anni",
       "regions": [
         "RO",
         "US",
         "AT",
         null,
-        "AU"
+        "AU",
+        "MX"
       ],
       "reward": null
     },
@@ -5151,19 +5174,20 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ==",
-        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJR1ZiMWcrc0hTdnoxYyt1SEttZGlJdmNjalBQdnF1OEVLRnZ3bVNueDl6N09jRFpkVVM2Q25udC8rbjZkM21qTnZHdkZnMzRtNC9wTm5tWUVhK2dFd2tZc3YybW9vYkdDZWJkMWZkbm9zeFJKckxuVWpCVlBZR21wZVZPUHcifQ==",
-        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJaWQwNTFSVU1ISkhORGROWnRTcTA2OU91aFpWZUlhUmlIY0dJYnp6U3VKdDVHOGlpdFdvck13NC9ja2FmcW0zQlhUVVpTWm16Ly9wa3VKbHU3aUg0WTRhbGcrT21mbTVSdnpIdnJqZWszbzR1blJjNlRLOWZEVmFmU0FheTVYMnF5YXRRZENpNFR4a1BsUjEyNkZqSFFwcmExQUxKZStobGJMekFoREIzYU93VGcwUXJMIn0="
+        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdlN3TFJ3WUNOekFyNElLaTIybXNqMEN3TWVHREwwZ0k2bEtoenNQSHBlL0l3SEJsd1JWSG5TSUU5R0pkd1A2c2xka01HNzQvZWtDVVBMZ3NQMUN3RFV6dTFJQ2xIS2F4bGNFam91RG5kMjNDMzlVRENYTVVlY0RpSXlWMmEifQ==",
+        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMVTcrL1ZHTDRiWHo1bW80MVJNMEcyaDhTNkZCTGxzWVFnVzFsNHRmUllDbTM0eWFFbXpROEFCT1pKOE94OXN0aFZXbjJYTXRNVnE3cHY1RXoydHAxLzNmdmRkbit0Vyt5SGhTZDV4RmxPSUdKY2RVMmV4QkhzVVhqbUhlcEU1OGJWRGdIMzBOWEhySE1NTllsbFVlai9nOWlmSHZKeDl0ZHNGM1dDc0xzbkZwWENUS2VuIn0="
       },
       "game": "Where Winds Meet",
       "gameId": "1437509662303059998",
       "id": "1554674616033616004",
-      "lastSeen": "2026-10-13T19:05:48.353Z",
+      "lastSeen": "2026-10-13T19:11:28.265Z",
       "name": "Where Winds Meet 2.2 Wuxia New Era",
       "regions": [
         "RO",
         null,
         "US",
-        "AU"
+        "AU",
+        "MX"
       ],
       "reward": null
     },
@@ -5239,11 +5263,11 @@
                 ],
                 "external_ids": [
                   "PPSA06518_00",
-                  "CUSA16209_00",
-                  "CUSA16169_00",
                   "PPSA06517_00",
+                  "CUSA16153_00",
                   "PPSA06516_00",
-                  "CUSA16153_00"
+                  "CUSA16169_00",
+                  "CUSA16209_00"
                 ]
               }
             },
@@ -5285,18 +5309,19 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ==",
-        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJR1ZiMWcrc0hTdnoxYyt1SEttZGlJdmNjalBQdnF1OEVLRnZ3bVNueDl6N09jRFpkVVM2Q25udC8rbjZkM21qTnZHdkZnMzRtNC9wTm5tWUVhK2dFd2tZc3YybW9vYkdDZWJkMWZkbm9zeFJKckxuVWpCVlBZR21wZVZPUHcifQ==",
-        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJMkdmS2FLSjFYNFJMSlhPNkxrVTJ6RUZKNVBtbmpLbzZtRXRqcHcyaVpFTlp3T09QbWIzL25GLzZtZHFKS0FXY1R5M3ZlMURTYWtUVjBlVExBdWx4dDJIeTdiVkViUmJqLytzWFkzRFRUajI4V1FMUktkcXh6T3NiVFlETTJ2Y3VhckhGOUwyUHFFdEQ5S2o5ZFJFWisrZ1Q5ZTQxK2ZBN2dqcmQ3RCtYOVYwbWZwZmdPIn0="
+        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdlN3TFJ3WUNOekFyNElLaTIybXNqMEN3TWVHREwwZ0k2bEtoenNQSHBlL0l3SEJsd1JWSG5TSUU5R0pkd1A2c2xka01HNzQvZWtDVVBMZ3NQMUN3RFV6dTFJQ2xIS2F4bGNFam91RG5kMjNDMzlVRENYTVVlY0RpSXlWMmEifQ==",
+        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMQTByNEZhUUh6VC90cE1tRHYzN3o0QUhOZnpRMFk3bHo4czN1MXBDT1E3YzdUa2JFUkpneEhWOExEaFFXS01BK1o0QnhYMTFBU2RCZGZ2YWFYY0Fsc3dXY2w2UUc4SHJOWFR3cTdwWXk2RVN6emZNcjNndkU2Y1JDdFBRZ2NpVXM2b0ZUeDdwZUFBZmJvL0NFTm5GZGlCTTI3RnR0ekJXSXNucm55RDUxWmxjRTBoWUtGIn0="
       },
       "game": "Risk of Rain 2",
       "gameId": "1402418087793528862",
       "id": "1547647018090893312",
-      "lastSeen": "2026-10-13T19:05:48.353Z",
+      "lastSeen": "2026-10-13T19:11:28.265Z",
       "name": "ROR2 Hallowed Concepts",
       "regions": [
         "RO",
         "AU",
-        "US"
+        "US",
+        "MX"
       ],
       "reward": null
     },
@@ -5388,18 +5413,19 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ==",
-        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJR1ZiMWcrc0hTdnoxYyt1SEttZGlJdmNjalBQdnF1OEVLRnZ3bVNueDl6N09jRFpkVVM2Q25udC8rbjZkM21qTnZHdkZnMzRtNC9wTm5tWUVhK2dFd2tZc3YybW9vYkdDZWJkMWZkbm9zeFJKckxuVWpCVlBZR21wZVZPUHcifQ==",
-        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJcjVuUGdwNnk3M1JjR2loZ1grZzczQWpENU45aTJUZFozdll0ZFcyd2xwRXZqVG1VQTRWODh1SUh3MHowaFJwWjJORHlRUFprOUcwakxhY0dEMk81NVkzTXBBc2p6UEJBQjNqTE5oRlBJZFRrOUQvcFhPVGFPRHJLWHNveXNHT2hMV0VLb3M2b010bzliaFdWYXNPMUFzQkxjMG9ObW9Db21nMy9nUEtMSzBCakZrcXR3In0="
+        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdlN3TFJ3WUNOekFyNElLaTIybXNqMEN3TWVHREwwZ0k2bEtoenNQSHBlL0l3SEJsd1JWSG5TSUU5R0pkd1A2c2xka01HNzQvZWtDVVBMZ3NQMUN3RFV6dTFJQ2xIS2F4bGNFam91RG5kMjNDMzlVRENYTVVlY0RpSXlWMmEifQ==",
+        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKQTRteE9Ea01BVkRWZkVFcEswV01qQytjTUxTb2tSVkNGenQ3WHNyaXp0M2YzOE9jK09wVDBiTk9uamJhaVZab2c0QXRYelYvRThoUTRqUkd2cGpORVludWJmaGt1V2dtazl3c2xWczl5TVlPbFJYZUJRMWtWS3UvU2ZETUU4ajhPejh0TTN4UWx0bHNnNzBPa3dPN1JpbWFvbHROdGJ5QXJQaDNaaFF4NUhlakpldWhSIn0="
       },
       "game": "March of Giants",
       "gameId": "1428223713928810496",
       "id": "1552900191751905280",
-      "lastSeen": "2026-10-13T19:05:48.353Z",
+      "lastSeen": "2026-10-13T19:11:28.265Z",
       "name": "March of Giants Playtest",
       "regions": [
         "RO",
         "AU",
-        "US"
+        "US",
+        "MX"
       ],
       "reward": null
     },
@@ -5490,18 +5516,19 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ==",
-        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJR1ZiMWcrc0hTdnoxYyt1SEttZGlJdmNjalBQdnF1OEVLRnZ3bVNueDl6N09jRFpkVVM2Q25udC8rbjZkM21qTnZHdkZnMzRtNC9wTm5tWUVhK2dFd2tZc3YybW9vYkdDZWJkMWZkbm9zeFJKckxuVWpCVlBZR21wZVZPUHcifQ==",
-        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMcGovdk5UM3I1aXl6eUNCdkRxK0FFU1EwN2pNdjgzU0RFOUpOM1B2VWVmYmhnT2pVTnhxcTh1a0gzdTNPeFkvbGJGTGVuRU50RmtXVEQ3cU50WnY4V1FxSVFpZm9lRUhsL2hXaG5WMVp6d2FXZjdCYWNReGlVQ0xIaE5LcUVlQVB3VkNGVzYyUFlFRE9xMktEY1EzL0VORUVqUnNOdVN2YzBkVDFWYkpEdVdKeE9ydE0wIn0="
+        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdlN3TFJ3WUNOekFyNElLaTIybXNqMEN3TWVHREwwZ0k2bEtoenNQSHBlL0l3SEJsd1JWSG5TSUU5R0pkd1A2c2xka01HNzQvZWtDVVBMZ3NQMUN3RFV6dTFJQ2xIS2F4bGNFam91RG5kMjNDMzlVRENYTVVlY0RpSXlWMmEifQ==",
+        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeFhjbzA2aVZNN3p5V0dCcyswdWVFZDdhdVJLS3Nob1RXc1lPZGZiRUhMVFZqMGcyZnpkV2dkZVhvMDBXcUNwRVk5UFl4RkFpdmd3ZUxzTmdqbUFOT3k0M0VYQ0FFU1JoZmtTejRCY1IzdE9DZDVWVEQwR1ZJdjR3cVh2L3NnZTJvdlFWNWRrZmJXQ0VxN0VBeC9IbSswS2N4c1BqZ242dmZFQUloeHo0REp5VEY3RGVZIn0="
       },
       "game": "Deadzone Rogue 2 Demo",
       "gameId": "1557866763339960340",
       "id": "1556778857481113610",
-      "lastSeen": "2026-10-13T19:05:48.353Z",
+      "lastSeen": "2026-10-13T19:11:28.265Z",
       "name": "Deadzone Rogue 2",
       "regions": [
         "RO",
         "AU",
-        "US"
+        "US",
+        "MX"
       ],
       "reward": null
     },
@@ -5620,18 +5647,19 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ==",
-        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJR1ZiMWcrc0hTdnoxYyt1SEttZGlJdmNjalBQdnF1OEVLRnZ3bVNueDl6N09jRFpkVVM2Q25udC8rbjZkM21qTnZHdkZnMzRtNC9wTm5tWUVhK2dFd2tZc3YybW9vYkdDZWJkMWZkbm9zeFJKckxuVWpCVlBZR21wZVZPUHcifQ==",
-        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMSXhiNUxjc3p5d29BclF5enBkUSsrVUpORkVCR3YzeXRXVS9nVFVWNkZFY0hrajNoSGh1djV4dm0wQTZQS3RRTEZ1aHcyRld6bHp2eWRtdWVqeUcxbUhpQlNZQWtNM0twNWlnNVV0UXczKzdIYkZka3kvMksvdWpxdmpwZXUwaVAvcFBrNks2Y3lxS3NJRFQwT1Q0U1dtblJHVUpZVGMxdTJBQTY5UVllQlZ5MjRFR3pHIn0="
+        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdlN3TFJ3WUNOekFyNElLaTIybXNqMEN3TWVHREwwZ0k2bEtoenNQSHBlL0l3SEJsd1JWSG5TSUU5R0pkd1A2c2xka01HNzQvZWtDVVBMZ3NQMUN3RFV6dTFJQ2xIS2F4bGNFam91RG5kMjNDMzlVRENYTVVlY0RpSXlWMmEifQ==",
+        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMQUdWU1RzNkJNMER4SGlPWE5sejgwS1pKV3lkOU93UjYzdzN4ZnBsekVtem1GT0dDbjlHRElKUGZpVDluNUZzSkF1YXdlc0V4UnEya1NJZmpFTDhLOUh1Y0RyUmVIQjNadkM5L0ZzZEVDOG52MEh1R1k1N3FGeFhQVlVCQzFXRVJBREZqSnBOOURvUXJpYm9wL0h1MzhsK3NxM2VhWW56T3k5OXVWRVpIN3hIQXArU1YyIn0="
       },
       "game": "Valorant",
       "gameId": "700136079562375258",
       "id": "1549142163487592600",
-      "lastSeen": "2026-10-13T19:05:48.353Z",
+      "lastSeen": "2026-10-13T19:11:28.265Z",
       "name": "Play VALORANT",
       "regions": [
         "RO",
         "AU",
-        "US"
+        "US",
+        "MX"
       ],
       "reward": null
     },
@@ -5722,18 +5750,19 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ==",
-        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJR1ZiMWcrc0hTdnoxYyt1SEttZGlJdmNjalBQdnF1OEVLRnZ3bVNueDl6N09jRFpkVVM2Q25udC8rbjZkM21qTnZHdkZnMzRtNC9wTm5tWUVhK2dFd2tZc3YybW9vYkdDZWJkMWZkbm9zeFJKckxuVWpCVlBZR21wZVZPUHcifQ==",
-        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMQ1M4bmh0bWtKYURjd3E1blVQeVNpWnR6ZmU5R0ZBZWc4TlB6cFNWK0ZXMi9oYzgzUzdFQXJvdElMKzdWNElCZmhhSmVlU2VWNER4YzU4eWpZaHBRbFhIQWNvTDVFUWdjY2poYUF6QnhuSjd6N0VuVTlESUFkcVFoajNxRUs1RnFGaC82WXRKT1ZkT05na3Z4Nmg2dHA4d2RQTm5jbm0xNzZEUzJ3UjdKelhaYnBuQUh0In0="
+        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdlN3TFJ3WUNOekFyNElLaTIybXNqMEN3TWVHREwwZ0k2bEtoenNQSHBlL0l3SEJsd1JWSG5TSUU5R0pkd1A2c2xka01HNzQvZWtDVVBMZ3NQMUN3RFV6dTFJQ2xIS2F4bGNFam91RG5kMjNDMzlVRENYTVVlY0RpSXlWMmEifQ==",
+        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21ZZEJxYjhaT1pFTlBRRGtxeXhWMTg3bFBPWkFuQTdNU1VZQnlJdkdlK2JtQkNLM3N5VTA2LzdZTmJOREFYRzl4K3NhTEd6NG9mdXRkeW93cXRlcG0rWFpYTjJGd1lGTDRjdklsdkcrQ1MxeEFvMmREV1dpa2lURVBacWFQMlZVN05LaWNPbjNJaUw4Z0xZQmQ5UTlwQlZaUk9SOW9PM2N2L0t5YzNxSkdSTnBZaXVNIn0="
       },
       "game": "AION 2",
       "gameId": "1445982809792708628",
       "id": "1554676841879441438",
-      "lastSeen": "2026-10-13T19:05:48.353Z",
+      "lastSeen": "2026-10-13T19:11:28.265Z",
       "name": "AION 2 LAUNCH PLAY",
       "regions": [
         "RO",
         "AU",
-        "US"
+        "US",
+        "MX"
       ],
       "reward": null
     },
@@ -5795,8 +5824,8 @@
                   }
                 ],
                 "external_ids": [
-                  "2044234749",
-                  "1621683201"
+                  "1621683201",
+                  "2044234749"
                 ]
               },
               "PLAY_ON_PLAYSTATION": {
@@ -5808,14 +5837,14 @@
                   }
                 ],
                 "external_ids": [
-                  "PPSA09664_00",
                   "PPSA19868_00",
-                  "PPSA09665_00",
-                  "PPSA19869_00",
-                  "PPSA09663_00",
                   "PPSA19867_00",
                   "PPSA18727_00",
-                  "PPSA19870_00"
+                  "PPSA19870_00",
+                  "PPSA09665_00",
+                  "PPSA09664_00",
+                  "PPSA09663_00",
+                  "PPSA19869_00"
                 ]
               }
             },
@@ -5854,18 +5883,19 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ==",
-        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJR1ZiMWcrc0hTdnoxYyt1SEttZGlJdmNjalBQdnF1OEVLRnZ3bVNueDl6N09jRFpkVVM2Q25udC8rbjZkM21qTnZHdkZnMzRtNC9wTm5tWUVhK2dFd2tZc3YybW9vYkdDZWJkMWZkbm9zeFJKckxuVWpCVlBZR21wZVZPUHcifQ==",
-        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMK1JESUZoK2FINEdEM2lEV2Z3ZHVodG4rNFpLZUJSRkRDcWpRTUk4WUl5bnprZzFBa0oyVFFiUmdEc01maWJOSW5LSHRtZkZqK2JBamJUNEREdjd0Nk5Hd09Oa2YxaGd5dFp6bUFBZ0puYWJVV0pINTVLdjd5amczOHBmSGpycFBiQ1Z6RlY5b09EVHV2ZDlNZTJHNWRNd1B4aEhhUVA1d3UrZXFpQnROSzBhQTZsSGt2In0="
+        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdlN3TFJ3WUNOekFyNElLaTIybXNqMEN3TWVHREwwZ0k2bEtoenNQSHBlL0l3SEJsd1JWSG5TSUU5R0pkd1A2c2xka01HNzQvZWtDVVBMZ3NQMUN3RFV6dTFJQ2xIS2F4bGNFam91RG5kMjNDMzlVRENYTVVlY0RpSXlWMmEifQ==",
+        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLQ1BTb3YvRnZwV3BZb28zeDRmaUF3Q2NKYkh0bEZUREd3SGduQlRsMFNueXhuTFE5akFNSzViMWl3YmI3ZmVTdkJRcWszVTBoUTZlTjhNOW1SRnRWdjgvWHhmOHNpRFJTWktEMVRkdURDOUE5bVZ5eGpsZmpKU1BJekM4UVdDUUg1MkhOeU1qRWRXVzBXcHJQdE1vTXZSMVlTa0JXK2pNNXNKR0NTek8xcWdob21OYitNIn0="
       },
       "game": "Dragon's Dogma 2",
       "gameId": "1220537550809337856",
       "id": "1554267368748883999",
-      "lastSeen": "2026-10-13T19:05:48.353Z",
+      "lastSeen": "2026-10-13T19:11:28.265Z",
       "name": "Dark Arisen Arrives",
       "regions": [
         "RO",
         "AU",
-        "US"
+        "US",
+        "MX"
       ],
       "reward": null
     },
@@ -5956,18 +5986,19 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ==",
-        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJR1ZiMWcrc0hTdnoxYyt1SEttZGlJdmNjalBQdnF1OEVLRnZ3bVNueDl6N09jRFpkVVM2Q25udC8rbjZkM21qTnZHdkZnMzRtNC9wTm5tWUVhK2dFd2tZc3YybW9vYkdDZWJkMWZkbm9zeFJKckxuVWpCVlBZR21wZVZPUHcifQ==",
-        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMW1PNVpKUHV1TW8zSHNGYUtMNmtDRFFCbUUzR3RqeGFZS3BHSnpidjFDK1ErRGFIWjc3TDMrQnh5dk1obUFVMnZ4OEtPVnVzcEp2SkRIZEVVUCttc1ZnMUEvOURETTNjTmtSK0dlMnlOR2ZhMS9FVUpZQTdIMzQ0SEkyQWwrS3VOK2xXc3ZBNmhwLzg5cXlBUUorWUUyZWJ2c0thcU5FVnNndE9BYXBrOHBCY0MzeFowIn0="
+        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdlN3TFJ3WUNOekFyNElLaTIybXNqMEN3TWVHREwwZ0k2bEtoenNQSHBlL0l3SEJsd1JWSG5TSUU5R0pkd1A2c2xka01HNzQvZWtDVVBMZ3NQMUN3RFV6dTFJQ2xIS2F4bGNFam91RG5kMjNDMzlVRENYTVVlY0RpSXlWMmEifQ==",
+        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLd3gyMUZEcW1Dbm1ka2J5V3BFQWxJSUNwYmdrOGJmZm1YcTY2UjJOMnB2a01nY3lWZzhVSzZhWkd1clhMNVBCVVlQVm5sQ0JuSjJCVDNEa09qN3RSRHo4NEIzYTkybXJ2WlRXaHRlUklnRFBxR1ptbm5ZM0cvY205NTNHWk9ncXdhVGE5cTNGNmd6RUlQKzVVQm5DZkVFOCtvQjNDN3ZlODliY0d1NXJzUWJXS3FyTlptIn0="
       },
       "game": "Roblox",
       "gameId": "363445589247131668",
       "id": "1555654330043076719",
-      "lastSeen": "2026-10-13T19:05:48.353Z",
+      "lastSeen": "2026-10-13T19:11:28.265Z",
       "name": "Doors",
       "regions": [
         "RO",
         "AU",
-        "US"
+        "US",
+        "MX"
       ],
       "reward": null
     },
@@ -6070,18 +6101,19 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ==",
-        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJR1ZiMWcrc0hTdnoxYyt1SEttZGlJdmNjalBQdnF1OEVLRnZ3bVNueDl6N09jRFpkVVM2Q25udC8rbjZkM21qTnZHdkZnMzRtNC9wTm5tWUVhK2dFd2tZc3YybW9vYkdDZWJkMWZkbm9zeFJKckxuVWpCVlBZR21wZVZPUHcifQ==",
-        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKOWYrMUVscFpRRmxwcmpKNHNyRFQ3aGt1MTVLck4rRGUzbzNwYnJUMVVZRHR6Nm14L2NzY2txRnJ5bUlwVlAvbE9QcFZoVS9Md2QxeHBsbWQ3bnZxS21YSWxQd3ZrVmh2MVZLK3I1cHJRRm9jVGYzeXFVcEVyNi9QQjRTY2UzenpQdEZwNEJjMEZ1eit0Q0ErMEJERjVXVGw3NXRtZUpuK0tqdkFVUEdqbTNqbFFTbDZKIn0="
+        "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdlN3TFJ3WUNOekFyNElLaTIybXNqMEN3TWVHREwwZ0k2bEtoenNQSHBlL0l3SEJsd1JWSG5TSUU5R0pkd1A2c2xka01HNzQvZWtDVVBMZ3NQMUN3RFV6dTFJQ2xIS2F4bGNFam91RG5kMjNDMzlVRENYTVVlY0RpSXlWMmEifQ==",
+        "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKWElHNkMwZmFpbHpFM1NGSHhONk9Ca1BaQnhNcVl5UGxLMnp6cnBNd29tSG1JTnNTTC93TElsY2VjL1J4ZUZoNnJ1SE5kNXhHelNLblRvUFJkcUtFWncxR3pNQkVtcDhBTjF3TkZtVUZaa1pqQnJKK1NvWDRkWUVqOVNscEJmQmJFTW9hbDZiaHIvbkErWXVDcDlYeitWSnhtYWhDU29BL2YxNGozeHlnbFZ4SnNuZk52In0="
       },
       "game": "Where Winds Meet",
       "gameId": "1437509662303059998",
       "id": "1554683719422316636",
-      "lastSeen": "2026-10-13T19:05:48.353Z",
+      "lastSeen": "2026-10-13T19:11:28.265Z",
       "name": "Where Winds Meet 2.2 Wuxia New Era",
       "regions": [
         "RO",
         "AU",
-        "US"
+        "US",
+        "MX"
       ],
       "reward": null
     }
